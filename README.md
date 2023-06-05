@@ -30,4 +30,4 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 ### Author
 
-- [Ephrem Getachew](https://github.com/Ephrem2166)
+- [Prashant Jagtap](https://github.com/prashantjagtap2909)
