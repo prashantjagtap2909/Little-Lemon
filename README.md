@@ -25,7 +25,7 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 - Meta front-end table-booking API
 
 ### Install and Run:
-
+- Run 'npm i' and then
 - Run 'npm start' on the reserve-a-table folder
 
 ### Author
