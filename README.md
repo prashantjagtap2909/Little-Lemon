@@ -1,5 +1,5 @@
 # Little Lemon Restaurant
-  - Please star ⭐ the repo when you visit it....
+  
 
     
 [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2FLittle-Lemon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -20,6 +20,7 @@ course link - [Meta front end development professional certificate](https://www.
 ![image](https://github.com/prashantjagtap2909/Little-Lemon/assets/93985255/18d1b9d2-8c39-4af3-a3b9-051a17ae301b)
 
 
+- [![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashantjagtap2909%2FFull-stack-web-development&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ### Booking Page
